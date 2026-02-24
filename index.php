@@ -11,7 +11,7 @@
                      <div class="row column_title">
                         <div class="col-md-12">
                            <div class="page_title">
-                              <h2>Dashboard</h2>
+                              <h2>Dashboard2</h2>
                            </div>
                         </div>
                      </div>
