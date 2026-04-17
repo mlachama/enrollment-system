@@ -1,7 +1,6 @@
-## 🛠️ Technologies Used
-- PHP
-- JavaScript
-- jQuery
-- Bootstrap
-- CSS
-- MySQL
+## 🛠️ Techn Stack
+
+- 💻 PHP (Backend)
+- 🎨 Bootstrap & CSS (Frontend)
+- ⚡ JavaScript & jQuery (Interactivity)
+- 🗄️ MySQL (Database)
